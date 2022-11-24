@@ -21,6 +21,7 @@ let placesFormatted = data.places.map((place, index) => {
   )
 })
 
+
   return (
     <Def>
         <main>
